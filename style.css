@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(36, 54, 54);
+}
+.left{
+   /* border: 2px solid red;  */
+
+    
+}
+.left li a:hover{
+    color: rgb(219, 25, 90);
+    
+}
+
+.left li {
+    /* text-decoration: none; */
+    float:right;
+    list-style:none;
+    margin: 10px;
+    padding: 14px;
+    font-size: larger;
+    
+    
+}
+.left li a{
+    color: rgb(28, 26, 168);
+    text-decoration: none;
+    border: 2px solid rgb(114, 114, 114);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: aliceblue;
+
+    
+}
+
+#signup{
+    
+text-decoration: none;
+
+
+}
+
+ul{
+    
+    overflow: auto;
+}
+/* THIS STYLING FOR LOGO */
+.logo{
+    text-align: center;
+    /* border: 2px solid black; */
+    margin: 10px;
+     
+    
+}
+img{
+    max-width: 200px;
+    height:auto;
+}
+.search{
+    text-align: center;
+    margin: 5px;
+    padding: 12px;
+   
+    
+}
+input{
+    border: 5px;
+    width: 550px;
+    text-align: center;
+    height: 50px;
+    border-radius: 18px;
+    font-size: larger;
+    background-color: whitesmoke;
+}
+
+#sub{
+    margin:18px;
+    padding: 5px;
+   text-align: center;
+}
